@@ -1,0 +1,7 @@
+{
+  "name": "QueueEase",
+  "displayName": "QueueEase",
+  "android": {
+    "package": "com.queueease.app"
+  }
+}
